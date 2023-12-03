@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - EndElement
+  - Slot
+  - Draggable
+  - Ender
+  - Bullet
+  - FxTemporaire
+  - EndDiamond
+  - Tower
+  - EndMiniGame
+  - Bin
+  - Interactable
+  - EndGameObstacles
+  - VirtualCamera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Wall
+  - Player
+  - Floor
+  - Button
+  - EndGameTrigger
+  - GridSlot
+  - DetectInput
+  - Draggable
+  - Bullet
+  - Tower
+  - Inv
+  - End_Diamond
+  - End_Obstacles
+  - End_Multiply
+  - Collectables
+  - Player_Collectables
+  - Floor_2
+  - EndGame_Block
+  - EndGame_Ender
+  - EndGame_Character
+  - EndGame_Buttons
+  - FakeShadow
+  - Interactable
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
